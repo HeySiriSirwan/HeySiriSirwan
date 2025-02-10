@@ -16,8 +16,6 @@ I work extensively with **SQL** and am proficient in **PostgreSQL** and **MySQL*
 - ![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=flat)
 - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-- ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-- ![ETL](https://img.shields.io/badge/ETL-007ACC?style=flat)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
@@ -30,16 +28,13 @@ I work extensively with **SQL** and am proficient in **PostgreSQL** and **MySQL*
 
 ## What I'm Learning
 I'm currently expanding my expertise in:
-- **System Design**
-- **Docker**
-- **Linux**
-- **DevOps**
-- **MLOps**
-- **AWS**
 - **Apache Spark**
-- **NoSQL**
-- **MongoDB**
-- **Redis**
+- **Apache Airflow**
+- **Docker/Kubernetes**
+- **Linux/GNU**
+- **AWS**
+- **NoSQL/MongoDb/Redis**
+- **System Design**
 - **Django**
 - **JavaScript**
 
